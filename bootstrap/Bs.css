@@ -1,0 +1,23 @@
+/* Custom Styles for the MagicBus Website */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+footer {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+.hero {
+    color: white;
+    padding: 4rem 0;
+}
+
+.navbar {
+    margin-bottom: 2rem;
+}
+
+.navbar-nav .nav-link.active {
+    font-weight: bold;
+}
